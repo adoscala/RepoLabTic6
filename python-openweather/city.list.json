@@ -1,0 +1,119 @@
+[
+  {
+    "id": 2760380,
+    "name": "Millstatt",
+    "country": "AT",
+    "coord": {
+      "lon": 13.58056,
+      "lat": 46.804169
+    }
+  },
+  {
+    "id": 2760523,
+    "name": "Zirl",
+    "country": "AT",
+    "coord": {
+      "lon": 11.23333,
+      "lat": 47.283329
+    }
+  },
+  {
+    "id": 2760704,
+    "name": "Zederhaus",
+    "country": "AT",
+    "coord": {
+      "lon": 13.5,
+      "lat": 47.150002
+    }
+  },
+  {
+    "id": 2760797,
+    "name": "Wurmla",
+    "country": "AT",
+    "coord": {
+      "lon": 15.86031,
+      "lat": 48.254971
+    }
+  },
+  {
+    "id": 2760814,
+    "name": "Wundschuh",
+    "country": "AT",
+    "coord": {
+      "lon": 15.45111,
+      "lat": 46.926392
+    }
+  },
+  {
+    "id": 2760839,
+    "name": "Worth an der Lafnitz",
+    "country": "AT",
+    "coord": {
+      "lon": 16.066669,
+      "lat": 47.200001
+    }
+  },
+  {
+    "id": 2760906,
+    "name": "Wolfsberg im Schwarzautal",
+    "country": "AT",
+    "coord": {
+      "lon": 15.65889,
+      "lat": 46.843891
+    }
+  },
+  {
+    "id": 2761615,
+    "name": "Weissenbach an der Triesting",
+    "country": "AT",
+    "coord": {
+      "lon": 16.039351,
+      "lat": 47.982109
+    }
+  },
+  {
+    "id": 2761689,
+    "name": "Weingraben",
+    "country": "AT",
+    "coord": {
+      "lon": 16.366671,
+      "lat": 47.51667
+    }
+  },
+  {
+    "id": 2768118,
+    "name": "Politischer Bezirk Radkersburg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.85,
+      "lat": 46.75
+    }
+  },
+  {
+    "id": 2761697,
+    "name": "Weinburg am Sassbach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.72111,
+      "lat": 46.753609
+    }
+  },
+  {
+    "id": 2761772,
+    "name": "Weichselbaum",
+    "country": "AT",
+    "coord": {
+      "lon": 16.1875,
+      "lat": 46.942501
+    }
+  },
+  {
+    "id": 7873628,
+    "name": "Wattenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 11.62618,
+      "lat": 47.206909
+    }
+  }
+]
